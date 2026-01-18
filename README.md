@@ -1,5 +1,3 @@
-# HR-Dashboard
-HR Analysis Dashboard built using Microsoft Power BI.
 # HR Analysis Dashboard – Power BI Project
 
 This project is an interactive HR Analysis Dashboard built using Microsoft Power BI. It provides a comprehensive view of employee demographics, headcount trends, business unit distribution, and job role classification. The dashboard helps HR teams and management make informed, data-driven decisions.
