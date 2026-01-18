@@ -40,7 +40,7 @@ Data Modeling (Relationships & Hierarchies)
 
 Power BI (.pbix) file
 
-Sample dataset (Excel)
+Sample dataset (Excel) <a href="https://github.com/ThuvarakaYogeswaran/HR-Dashboard/blob/15563949dfed4e0f3468720c736112627c2375e0/Employee%20Sample%20Data.xlsx">Download Data Set</a>
 
 Dashboard screenshots <a href="https://github.com/ThuvarakaYogeswaran/HR-Dashboard/blob/main/Dashboard.png">View here</a>
 
