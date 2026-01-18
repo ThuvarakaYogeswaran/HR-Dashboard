@@ -44,7 +44,7 @@ Power BI (.pbix) file
 
 Sample dataset (Excel)
 
-Dashboard screenshots
+Dashboard screenshots <a href="https://github.com/ThuvarakaYogeswaran/HR-Dashboard/blob/main/Dashboard.png">View here</a>
 
 Documentation / Notes
 
@@ -63,6 +63,4 @@ Job role frequency
 Geographical workforce spread
 
 # Dashboard Overview
-Refresh data to update all visuals
 
-Interact using the slicers & filters
