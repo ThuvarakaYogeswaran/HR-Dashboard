@@ -63,4 +63,7 @@ Job role frequency
 Geographical workforce spread
 
 # Dashboard Overview
+<img width="887" height="499" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/6fb9f1d7-d46c-489d-a8ba-3e1c68ccec25" />
+<img width="888" height="501" alt="Dashboard" src="https://github.com/user-attachments/assets/98ff4c1d-3a0c-45f8-971b-5e9cfd9d4eef" />
+
 
